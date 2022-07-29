@@ -16,6 +16,7 @@ This project provides a Docker container for an HPC environment based on OpenMP 
 - libblas-dev 
 - liblapack-dev 
 - libopenmpi-dev 
+- libomp-dev 
 - openmpi-bin 
 - python3-dev 
 - python3-pip 
