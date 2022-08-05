@@ -7,9 +7,9 @@ MAINTAINER @muriloboratto
 
 USER root
 
-WORKDIR /home/CIMATEC/
+WORKDIR /home/admin/
 
-COPY samples/ /home/CIMATEC/samples/
+COPY samples/ /home/admin/samples/
 
 RUN apt-get --yes -qq update \
  && apt-get --yes -qq upgrade \
